@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'angular-core-workshop-one',
+  name: 'dashboard',
   preset: '../../jest.config.js',
-  coverageDirectory: '../../coverage/apps/angular-core-workshop-one',
+  coverageDirectory: '../../coverage/apps/dashboard',
   snapshotSerializers: [
     'jest-preset-angular/build/AngularNoNgAttributesSnapshotSerializer.js',
     'jest-preset-angular/build/AngularSnapshotSerializer.js',

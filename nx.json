@@ -25,6 +25,13 @@
     "angular-core-workshop-one-e2e": {
       "tags": [],
       "implicitDependencies": ["angular-core-workshop-one"]
+    },
+    "dashboard": {
+      "tags": []
+    },
+    "dashboard-e2e": {
+      "tags": [],
+      "implicitDependencies": ["dashboard"]
     }
   }
 }
